@@ -1,0 +1,1 @@
+EN el archivoactividad 3 se encuentra el cidigo ejecutado para la elaboracion del algoritmo de prediccion mientras que en el archivo estaciones-de-transmilenio, se encuentra la data utilizada, la cual fue optenida de la siguiente pagina: https://transport.opendatasoft.com/explore/dataset/estaciones-de-transmilenio/table/
